@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AirBnB-Experience-Clone/static/css/main.a297bc43.css",
+    "main.js": "/AirBnB-Experience-Clone/static/js/main.06bbf6a6.js",
+    "static/media/photo-grid.png": "/AirBnB-Experience-Clone/static/media/photo-grid.294d59b66b94e0e456cf.png",
+    "static/media/logo.jpg": "/AirBnB-Experience-Clone/static/media/logo.e42751df984388eb0804.jpg",
+    "index.html": "/AirBnB-Experience-Clone/index.html",
+    "main.a297bc43.css.map": "/AirBnB-Experience-Clone/static/css/main.a297bc43.css.map",
+    "main.06bbf6a6.js.map": "/AirBnB-Experience-Clone/static/js/main.06bbf6a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a297bc43.css",
+    "static/js/main.06bbf6a6.js"
+  ]
+}
